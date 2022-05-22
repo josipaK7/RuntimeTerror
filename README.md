@@ -1,5 +1,5 @@
 # RuntimeTerror
-Projekt iz kolegija "Programsko inženjerstvo" akademske godine 2020./2021. 
+Projekt iz kolegija "Programsko inženjerstvo" akademske godine 2020./2021. Izvorni kod se malazi na master branch.
 
 Projektni zadatak: Planinarski dnevnik 
 
